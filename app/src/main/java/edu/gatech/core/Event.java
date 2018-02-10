@@ -1,3 +1,5 @@
+package edu.gatech.core;
+
 /**
  * Created by Megan on 2/10/18.
  */
