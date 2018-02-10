@@ -1,10 +1,14 @@
 <resources>
     <string name="app_name">Core</string>
     <string name="title_activity_maps">Map</string>
+<<<<<<< HEAD
     <string name="title_activity_navigation_menu">NavigationMenu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+=======
+    <string name="title_activity_single_event">SingleEvent</string>
+>>>>>>> ecc6e0ba6d4362baf25d5ccbd387218825513eb9
 </resources>
